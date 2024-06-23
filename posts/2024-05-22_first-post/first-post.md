@@ -1,5 +1,6 @@
 ---
 title: "First Post"
+subtitle: "This is just a subtitle."
 description: "This is some kind of post description. Something short and simple."
 author: "redrubycorn"
 date: "22 05 2024"

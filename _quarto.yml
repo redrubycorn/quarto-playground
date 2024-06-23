@@ -3,6 +3,20 @@ project:
 
 website:
   title: "quarto-playground"
+  cookie-consent:
+    type: express
+    style: simple
+    palette: dark
+    policy-url: ""
+  page-footer:
+    left: Made with <3 and Quarto
+    right:
+      - icon: github
+        href: https://github.com
+      - icon: instagram
+        href: https://www.instagram.com
+      - icon: youtube
+        href: https://www.youtube.com
   navbar:
     right:
       - href: index.qmd
@@ -17,6 +31,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
